@@ -1,0 +1,15 @@
+/Users/brenomaistro/RiderProjects/ProjetoNotificacoes/ProjetoNotificacoes/bin/Debug/net8.0/ProjetoNotificacoes
+/Users/brenomaistro/RiderProjects/ProjetoNotificacoes/ProjetoNotificacoes/bin/Debug/net8.0/ProjetoNotificacoes.deps.json
+/Users/brenomaistro/RiderProjects/ProjetoNotificacoes/ProjetoNotificacoes/bin/Debug/net8.0/ProjetoNotificacoes.runtimeconfig.json
+/Users/brenomaistro/RiderProjects/ProjetoNotificacoes/ProjetoNotificacoes/bin/Debug/net8.0/ProjetoNotificacoes.dll
+/Users/brenomaistro/RiderProjects/ProjetoNotificacoes/ProjetoNotificacoes/bin/Debug/net8.0/ProjetoNotificacoes.pdb
+/Users/brenomaistro/RiderProjects/ProjetoNotificacoes/ProjetoNotificacoes/obj/Debug/net8.0/ProjetoNotificacoes.csproj.AssemblyReference.cache
+/Users/brenomaistro/RiderProjects/ProjetoNotificacoes/ProjetoNotificacoes/obj/Debug/net8.0/ProjetoNotificacoes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brenomaistro/RiderProjects/ProjetoNotificacoes/ProjetoNotificacoes/obj/Debug/net8.0/ProjetoNotificacoes.AssemblyInfoInputs.cache
+/Users/brenomaistro/RiderProjects/ProjetoNotificacoes/ProjetoNotificacoes/obj/Debug/net8.0/ProjetoNotificacoes.AssemblyInfo.cs
+/Users/brenomaistro/RiderProjects/ProjetoNotificacoes/ProjetoNotificacoes/obj/Debug/net8.0/ProjetoNotificacoes.csproj.CoreCompileInputs.cache
+/Users/brenomaistro/RiderProjects/ProjetoNotificacoes/ProjetoNotificacoes/obj/Debug/net8.0/ProjetoNotificacoes.dll
+/Users/brenomaistro/RiderProjects/ProjetoNotificacoes/ProjetoNotificacoes/obj/Debug/net8.0/refint/ProjetoNotificacoes.dll
+/Users/brenomaistro/RiderProjects/ProjetoNotificacoes/ProjetoNotificacoes/obj/Debug/net8.0/ProjetoNotificacoes.pdb
+/Users/brenomaistro/RiderProjects/ProjetoNotificacoes/ProjetoNotificacoes/obj/Debug/net8.0/ProjetoNotificacoes.genruntimeconfig.cache
+/Users/brenomaistro/RiderProjects/ProjetoNotificacoes/ProjetoNotificacoes/obj/Debug/net8.0/ref/ProjetoNotificacoes.dll
